@@ -1,0 +1,3 @@
+export const ADDCONT = 'ADDCONT'
+export const FETCGFOURLIST = 'FETCGFOURLIST'
+export const CHANGEMSG = 'CHANGEMSG'
